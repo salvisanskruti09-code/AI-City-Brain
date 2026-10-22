@@ -66,11 +66,21 @@ A working prototype and real-world validation are future goals.
 - Test risk predictions
 - Evaluate the quality of AI-generated recommendations
 
-## Author
+## Project Team
 
-Sanskruti Shashikant Salvi
+This project was developed collaboratively as a group student innovation project.
+
+**Team Members:**
+- Sanskruti Shashikant Salvi
+- Harshada Anand Sawant 
+- Sanskruti Manoj Pawar
+
+## Current Status
+
+Student innovation concept and visual mockup.
+
+A working prototype and real-world validation are future development goals.
 
 B.Tech Data Science Student
-
 # AI-City-Brain
 A hyperlocal AI decision-support concept for smarter urban management.
